@@ -1,16 +1,27 @@
-## Hi there 👋
+# <p align="center">Software Developer & Computer Vision Specialist</p>
 
-<!--
-**AmericoLG/AmericoLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Cochabamba%2C%20Bolivia-blue?style=flat-square" alt="Ubicación">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Vision%20AI-orange?style=flat-square" alt="Enfoque">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+```javascript
+const americo = {
+    rol: "Desarrollador de Software & Especialista en Visión Artificial",
+    ubicacion: "Cochabamba, Bolivia",
+    zona_horaria: "GMT-4",
+    
+    mision: "Optimizar procesos complejos mediante el desarrollo de software robusto, " +
+            "arquitecturas distribuidas e integración de modelos inteligentes de visión computacional.",
+            
+    enfoque: [
+        "Desarrollo Backend (Python / Java)",
+        "Sistemas IoT y Arquitecturas Edge/Cloud (MQTT)",
+        "Procesamiento Digital de Imágenes y Extracción de Datos",
+        "Diseño de Interfaces de Usuario (JavaFX / Swing)"
+    ]
+};
